@@ -1,6 +1,6 @@
 console.log("hello")
 console.log("hello x2")
 
-if (true) {
+if (0) {
   console.log("hello world")
 }
