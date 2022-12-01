@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:srijanpaul-deepsource/bork.git",
   "author": "Srijan Paul <srijan.paul@deepsource.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "push": "git add . && git commit -m \"trigger run\" && git push"
+  }
 }
