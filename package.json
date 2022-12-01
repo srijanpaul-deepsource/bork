@@ -1,0 +1,8 @@
+{
+  "name": "bork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:srijanpaul-deepsource/bork.git",
+  "author": "Srijan Paul <srijan.paul@deepsource.io>",
+  "license": "MIT"
+}
